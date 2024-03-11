@@ -1,0 +1,3 @@
+[submodule "anotherrepo"]
+	path = anotherrepo
+	url = https://github.com/akhilreddy18/anotherrepo.git
